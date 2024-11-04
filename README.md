@@ -1,4 +1,4 @@
-<h1 align ="center">Challenge Front-end AluraGeek, Oracle ONE + Alura.</h1>
+<h1 align ="center">Challenge Front-End AluraGeek, Oracle ONE + Alura.</h1>
 
 
 <div align ="center">
@@ -35,17 +35,3 @@ A empresa AluraGeek está precisando trazer mais clientes e aumentar suas vendas
 - Estarei adicionando as novas funcionalidades ao projeto aos poucos. 
 
 #
-<div align="center">
-  <img src="https://github.com/Celsohsl/Challenge-Front-end-AluraGeek/blob/main/assets/images/readme-img/badge_alurageek300x300.png"/>
-  <h2 align="center">Badge conquistada com esse projeto.</h2>
-</div
- 
-#
-<p align="left">
-  🛠<strong> Ferramentas:</strong>
- <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
- <img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=write">
- <img align="center" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
- <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
- <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</p>
