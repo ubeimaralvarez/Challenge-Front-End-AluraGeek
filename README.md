@@ -3,7 +3,7 @@
 <h2 align ="center">Screenshot</h2>
 
 <div align ="center">
- <img src="https://github.com/Celsohsl/Challenge-Front-end-AluraGeek/blob/main/assets/images/readme-img/AluraGeekReadme_home.png" />
+ <img src="https://github.com/ubeimaralvarez/Challenge-Front-end-AluraGeek/blob/main/assets/images/readme-img/AluraGeekReadme_home.png" />
 </div>
 
 <h2 align ="center">Sobre o desafio 📜<br>
