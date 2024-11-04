@@ -1,5 +1,11 @@
 <h1 align ="center">Challenge Front-End AluraGeek, Oracle ONE + Alura.</h1>
 
+<h2 align ="center">Screenshot</h2>
+
+<div align ="center">
+ <img src="https://github.com/Celsohsl/Challenge-Front-end-AluraGeek/blob/main/assets/images/readme-img/AluraGeekReadme_home.png" />
+</div>
+
 <h2 align ="center">Sobre o desafio 📜<br>
 Construir um e-commerce!</h2>
 
